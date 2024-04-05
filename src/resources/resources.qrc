@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style_main_window/background_one.jpeg</file>
+        <file>style_main_window/background_two.jpg</file>
+        <file>style_main_window/background_one.jpg</file>
+        <file>icons/icon.ico</file>
+        <file>icons/icon.icns</file>
+        <file>icons/graph.ico</file>
+        <file>icons/deposit.ico</file>
+        <file>icons/credit.ico</file>
+        <file>icons/s21_school.ico</file>
+        <file>icons/cat.svg</file>
+        <file>icons/1.svg</file>
+    </qresource>
+</RCC>
