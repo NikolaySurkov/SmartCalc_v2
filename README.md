@@ -1,7 +1,7 @@
 # SmartCalc21_v2
 
-###The calculator application is written in the C++ programming language. 
-###The build system is Cmake.
+### The calculator application is written in the C++ programming language. 
+### The build system is Cmake.
  
 [Full information.](src/info/SmartCalc_v2_info.md)
 
